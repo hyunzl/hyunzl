@@ -18,7 +18,7 @@
     <tr>
       <td>
         <a href="https://github.com/devxb/gitanimals">
-          <img src="https://render.gitanimals.org/lines/hyunzl"/>
+          <img src="https://render.gitanimals.org/lines/hyunzl" width="724" height="120"/>
         </a>
       </td>
     </tr>
