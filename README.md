@@ -17,8 +17,8 @@
     </tr>
     <tr>
       <td>
-        <a href="https://www.gitanimals.org/ko_KR/mypage">
-          <img src="https://render.gitanimals.org/lines/hyunzl" width="724" height="120"/>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/farms/{hyunzl}"/>
         </a>
       </td>
     </tr>
