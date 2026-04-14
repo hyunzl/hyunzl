@@ -9,10 +9,11 @@
     <div align= "center">  </div> 
     </div>
     
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyunzl&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/hyunzl"
-    width="600"
+    width="724"
     height="120"
   />
 </a>
