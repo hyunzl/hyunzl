@@ -8,11 +8,20 @@
     </div>  <br> 
     
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyunzl&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/hyunzl"
-    width="724"
-    height="120"
-  />
-</a>
+## 👾 My Playground
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>hyunzl</b></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.gitanimals.org/ko_KR/mypage">
+          <img src="https://render.gitanimals.org/lines/hyunzl" width="724" height="120"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
   
